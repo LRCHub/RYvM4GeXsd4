@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "適材適所ワンモアトライ！",
+  "base_artist": "ぶいすぽっ！、猫汰つな",
+  "createdAt": "2025-12-09T09:57:14.256029Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "適材適所ワンモアトライ!",
+      "artist": "ぶいすぽっ!、猫汰つな",
+      "has_synced": false,
+      "path": "select/pl_01_適材適所ワンモアトライ!_ぶいすぽっ!、猫汰つな.txt"
+    }
+  ]
+}
